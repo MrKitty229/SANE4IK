@@ -1,4 +1,268 @@
+print ('sanya hui sosi') 
+print ('sanya hui sosi') 
+print ('sanya hui sosi') 
 
-while 10==10 
- print ('sanya hui sosi') 
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+print ('sanya hui sosi') 
+
+
 
