@@ -1,3 +1,4 @@
-i=0
-while i<=10
+
+while 10==10 {
  print ('sanya hui sosi') 
+}
