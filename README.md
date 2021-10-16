@@ -1,8 +1,1 @@
-# SANEK
-
-<html>
-  <body>
-    <h1>LOSHARA</h1>
-  </body>
-</html>
-
+print("O bandarra fudeu com o salvador")
